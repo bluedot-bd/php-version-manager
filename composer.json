@@ -1,0 +1,24 @@
+{
+    "name": "bluedot/php-version-manager",
+    "description": "Manage PHP cli versions with ease",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Bluedot\\PhpVersionManager\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Saiful Islam",
+            "email": "saaifulislam@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+     "require": {
+        "php": "*"
+    },
+    "bin": [
+        "bin/phpver"
+    ]
+}
