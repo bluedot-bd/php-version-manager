@@ -5,7 +5,7 @@ PHP Version Manager is a CLI tool designed to make it easier to manage multiple 
 To install PHP Version Manager, you need to have Composer installed on your system. Once you have Composer, you can install PHP Version Manager globally by running the following command:
 
 ```bash
-composer global require bluedot/php-version-manager
+composer global require bluedot-bd/php-version-manager
 ```
 
 ## Usage

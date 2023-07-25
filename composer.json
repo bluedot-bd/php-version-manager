@@ -1,5 +1,5 @@
 {
-    "name": "bluedot/php-version-manager",
+    "name": "bluedot-bd/php-version-manager",
     "description": "Manage PHP cli versions with ease",
     "type": "library",
     "license": "MIT",
