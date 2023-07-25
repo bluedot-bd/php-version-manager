@@ -20,5 +20,13 @@
     },
     "bin": [
         "bin/phpver"
-    ]
+    ],
+    "scripts": {
+        "post-install-cmd": [
+            "chmod +x bin/phpver"
+        ],
+        "post-update-cmd": [
+            "chmod +x bin/phpver"
+        ]
+    }
 }
